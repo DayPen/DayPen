@@ -14,9 +14,6 @@ I do the best I can until I know better, then I do better *(paraphrased Maya Ang
 
 Cheers!   
 
- //\_/\  
-(='.'=)  
-(")_(")  
 <!--
 Profile README.md updated January 27, 2026 -- will need to update as I learn more!!!
 
