@@ -13,8 +13,8 @@ Constructive feedback is always welcome.
 I do the best I can until I know better, then I do better *(paraphrased Maya Angelou)*  
 
 Cheers!  
-
- |\_/|  /*  
+  
+ (\_/)  /*  
 (='.'=) \  
 (")_(")_/  
 
