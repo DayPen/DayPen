@@ -12,14 +12,17 @@ Learning in public, improving as I go.
 Constructive feedback is always welcome.  
 I do the best I can until I know better, then I do better *(paraphrased Maya Angelou)*  
 
-Cheers!  
-  
- (\_/)  /*  
-(='.'=) \  
-(")_(")_/  
+Cheers!   
 
+ //\_/\  
+(='.'=)  
+(")_(")  
 <!--
 Profile README.md updated January 27, 2026 -- will need to update as I learn more!!!
+
+ /\_/\  /*  
+(='.'=) \  
+(")_(")_/ 
 (*sign-off inspired by "ASCII art" https://en.wikipedia.org/wiki/ASCII_art)
 below is Braille ASCII art:
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿
