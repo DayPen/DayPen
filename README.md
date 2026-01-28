@@ -13,9 +13,9 @@ Constructive feedback is always welcome.
 I do the best I can until I know better, then I do better *(paraphrased Maya Angelou)*  
 
 Cheers!   
-/\_/\
-(='.'=)
-(")_(")/
+/\_/\  
+(='.'=)  
+(")_(")/  
 <!--
 Profile README.md updated January 27, 2026 -- will need to update as I learn more!!!
 
